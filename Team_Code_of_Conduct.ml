@@ -76,3 +76,5 @@ Group Vision on Success
 Team Agreement
 All team members commit to this Code of Conduct.
 *)
+DECLARATION 
+Pavan Kalyan Pittala - signed
